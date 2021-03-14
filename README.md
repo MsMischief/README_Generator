@@ -19,6 +19,6 @@
   
   ## License
   \
- Copyright © 2021 Victoria Garner \
+ Copyright © 2021 Victoria Garner 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
